@@ -1,8 +1,8 @@
 ---
 name: feature Report
 description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+title: "[feature]: "
+labels: ["feature", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
   - octocat
